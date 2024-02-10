@@ -1,4 +1,4 @@
-### BotWithUs Java Skeleton
+### BotWithUs Kotlin Skeleton
 This IntelliJ Gradle project shows you the basic setup to get started scripting with Java. Other IDEs are possible, but this project is an IntelliJ IDEA project.
 
 ### Description
