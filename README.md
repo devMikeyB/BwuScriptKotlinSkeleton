@@ -6,8 +6,8 @@ This IntelliJ Gradle project shows you the basic setup to get started scripting 
 - While you dont have to follow the state structure provided, a suitable alternative is recommended if you dont.
 
 ### Info
-- You'll find the script itself located at ``src/main/java/net/botwithus/SkeletonScript.java``
-- You'll find the graphics context (which allows you to draw UI with ImGui) at ``src/main/java/net/botwithus/SkeletonScriptGraphicsContext.java``
+- You'll find the script itself located at ``src/main/java/net/botwithus/KotlinSkeleton.kt``
+- You'll find the graphics context (which allows you to draw UI with ImGui) at ``src/main/java/net/botwithus/KotlinSkeletonGraphicsContext.kt``
 - If you're having any trouble, speak up in the public-scripters channel on discord!
 
 ### After downloading/copying
